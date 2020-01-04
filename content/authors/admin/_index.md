@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: AAP
+bio: ""
 education:
   courses:
   - course: PhD in Evolutionary Genetics
