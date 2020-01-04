@@ -10,7 +10,7 @@ education:
   - course: MSc in Evolutionary Biology
     institution: Rijksuniverseit Groningen, The Netherlands
     year: 2009
-  - course: BSc in Biolgy
+  - course: BSc in Biology
     institution: Rijksuniverseit Groningen, The Netherlands
     year: 2007
 email: "jelmerpoelstra@gmail.com"
@@ -43,4 +43,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoc at Duke University studying diversification of Madagascar's mouse lemurs using genomic data. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids at UNC Chapel Hill. My PhD dissertation was on coloration genetics and speciation genomics in two European crow taxa: carrion and hooded crows.
+I am a postdoc at Duke University studying diversification of Madagascar's mouse lemurs using genomic data. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids at UNC Chapel Hill. My PhD research, done at Uppsala Universy in Sweden, was on coloration genetics and speciation genomics in two European crow taxa: carrion and hooded crows.
