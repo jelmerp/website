@@ -1,29 +1,23 @@
 # Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
-#
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Jelmer Poelstra"
+title = "Jelmer Poelstra" # Jelmer_changed: to own name
 
-# The URL of your site.
-# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://jelmerpoelstra.netlify.com/"
+# The URL of your site. # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "https://jelmerpoelstra.netlify.com/" # Jelmer_changed: to actual URL
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
 copyright = ""
 
-############################
-## Advanced options below ##
-############################
-
 # Name of Academic theme folder in `themes/`.
 theme = "hugo-academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true # Jelmer_changed: false to true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -63,9 +57,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   quality = 90
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
-# Taxonomies.
 [taxonomies]
   tag = "tags"
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+
+[permalinks] # added_Jelmer
+    post = "/:year/:month/:day/:slug/" # added_Jelmer following recom at https://bookdown.org/yihui/blogdown/configuration.html
