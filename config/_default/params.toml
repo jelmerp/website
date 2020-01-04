@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Jelmer's site" # Jelmer_changed
 
 ############################
 ## Site Features
@@ -81,23 +81,23 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jelmerpoelstra@gmail.com"
-phone = ""
+email = "jelmerpoelstra@gmail.com" # Jelmer_changed
+phone = "9192608253" # Jelmer_changed
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "125 Science Drive", city = "Durham", region = "NC", postcode = "27708", country = "United States", country_code = "US"}
+address = {street = "125 Science Drive", city = "Durham", region = "NC", postcode = "27708", country = "United States", country_code = "US"} # Jelmer_changed
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.001906", longitude = "-78.943172"}
+coordinates = {latitude = "36.001906", longitude = "-78.943172"} # Jelmer_changed
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "" # Jelmer_changed: removed directions
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "" #["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = "" # Jelmer_changed, removed this: ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "" #https://calendly.com
@@ -115,17 +115,15 @@ contact_links = [
 ############################
 ## Social
 ############################
-
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "static/img/jelmer.jpg" # Jelmer_changed
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "jelmerpoelstra" # Jelmer_changed
 
 ############################
 ## Regional Settings
 ############################
-
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
@@ -138,7 +136,6 @@ address_format = "en-us"
 ############################
 ## Advanced
 ############################
-
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
 
