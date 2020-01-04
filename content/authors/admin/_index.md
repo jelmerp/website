@@ -1,48 +1,46 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: AAP
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Evolutionary Genetics
+    institution: Uppsala Universitet, Sweden
+    year: 2013
+  - course: MSc in Evolutionary Biology
+    institution: Rijksuniverseit Groningen, THe Netherlands
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc in Biolgy
+    institution: Rijksuniverseit Groningen, THe Netherlands
+    year: 2007
+email: "jelmerpoelstra@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Evolutionary biology
+- Speciation
+- Population genetics
+- Genomics
+name: Jelmer Poelstra
 organizations:
-- name: Stanford University
+- name: Duke University
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoc in Evolutionary Genomics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/jelmerpoelstra
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=h_a6S0cAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jelmerp
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoc at Duke University studying the diversification of Madagascar's mouse lemurs using genomic data in the lab of Anne Yoder. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids, and my dissertation was on coloration genetics and genomics of speciation in carrion and hooded crows.
