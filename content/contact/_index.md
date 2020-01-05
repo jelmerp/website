@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: "Research"
+title: About me
 view: 4
 ---
