@@ -16,27 +16,33 @@ education:
 email: "jelmerpoelstra@gmail.com"
 interests:
 - Evolutionary biology
+- Population genetics and genomics
 - Speciation
-- Population genetics
-- Genomics
+- Birding
 name: Jelmer Poelstra
 organizations:
-- name: Duke University
-  url: ""
-role: Postdoc in Evolutionary Genomics
+- name: Duke University  # Jelmer_changed
+  url: "https://biology.duke.edu/" # Jelmer_changed
+role: Postdoc in Evolutionary Genomics # Jelmer_changed
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jelmerpoelstra
+  link: https://twitter.com/jelmerpoelstra   # Jelmer_changed
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=h_a6S0cAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=h_a6S0cAAAAJ&hl=en  # Jelmer_changed
 - icon: github
   icon_pack: fab
-  link: https://github.com/jelmerp
+  link: https://github.com/jelmerp # Jelmer_changed
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0002-3514-7462 # Jelmer_changed
+#- icon: linkedin-in
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/alisonpresmaneshill/ # Jelmer_TODO
 superuser: true
 user_groups:
 - Researchers
