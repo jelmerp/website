@@ -27,7 +27,7 @@ role: Postdoc in Evolutionary Genomics # Jelmer_changed
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'jelmerpoelstra@gmail.com'
+  link: 'mailto:jelmerpoelstra@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jelmerpoelstra   # Jelmer_changed
