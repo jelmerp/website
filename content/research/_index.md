@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: "Research__"
+title: "Research Projects"
 view: 4
 ---

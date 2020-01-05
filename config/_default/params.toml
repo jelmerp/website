@@ -23,77 +23,44 @@ font_size = "M" # Jelmer_changed
 ############################
 ## Basic Info
 ############################
-# Website type
-#   Improve how search engines understand your site.
-#   For personal sites, choose "Person".
-#   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
-
-# Organization name (optional)
-# Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
-
-# Description for social sharing and search engines. If undefined, superuser role is used in place.
+org_name = "" # Organization or project name (optional)
 description = "Jelmer's site" # Jelmer_changed
 
 ############################
 ## Site Features
 ############################
-# Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
-highlight = true
+# For supported styles, see https://cdnjs.com/libraries/highlight.js/
+# Jelmer: see also https://highlightjs.org/static/demo/
+highlight = true # Enable source code highlighting? true/false
 highlight_languages = ["r"]  # Add support for highlighting additional languages
- # For supported styles, see https://cdnjs.com/libraries/highlight.js/
- # Jelmer: see also https://highlightjs.org/static/demo/
 highlight_style = "an-old-hope" #"github" # Jelmer_changed
-
-# Enable LaTeX math rendering? true/false
-# If false, you can enable math on a per page basis as needed.
-math = false
-
-# Enable diagram rendering? true/false
-#   If false, you can enable diagrams on a per page basis as needed.
-diagram = false
-
-# Privacy pack
-#   Show a cookie consent message to visitors
-#   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+math = false # Enable LaTeX math rendering? true/false. If false, you can enable math on a per page basis as needed.
+diagram = false # Enable diagram rendering? true/false. If false, you can enable diagrams on a per page basis as needed.
+privacy_pack = false # Show a cookie consent message to visitors; Anonymize IP in Google Analytics (if enabled)
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 ############################
-## Contact details
-## These details power the Contact widget (if enabled).
-## Additionally, for organizations, these details may be used to enrich search engine results.
+## Contact details for Contact widget (if enabled).
 ############################
 # Enter contact details (optional). To hide a field, clear it to "".
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+
 email = "jelmerpoelstra@gmail.com" # Jelmer_changed
 phone = "919-260-8253" # Jelmer_changed
-
-# Address
-# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "125 Science Drive", city = "Durham", region = "NC", postcode = "27708", country = "United States", country_code = "US"} # Jelmer_changed
-
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "36.001906", longitude = "-78.943172"} # Jelmer_changed
+directions = "" # Directions for visitors to locate you. # Jelmer_changed: removed directions
 
-# Directions for visitors to locate you.
-directions = "" # Jelmer_changed: removed directions
-
-# Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = "" # Jelmer_changed, removed this: ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = [] # Jelmer_changed, removed this: ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+appointment_url = "" # Enter an optional link for booking appointments (e.g. calendly.com).
 
-# Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "" #https://calendly.com
-
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+# Contact links: Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/jelmerpoelstra"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
@@ -105,49 +72,28 @@ contact_links = [
 ############################
 ## Social
 ############################
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "static/img/jelmer.jpg" # Jelmer_changed
-
-# Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "jelmerpoelstra" # Jelmer_changed
+sharing_image = "static/img/jelmer.jpg" # Jelmer_changed # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+twitter = "jelmerpoelstra" # Jelmer_changed # Twitter username (without @). Used when a visitor shares your site on Twitter.
 
 ############################
 ## Regional Settings
 ############################
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-#   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-date_format = "Jan 2, 2006"
-#   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
-
-# Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+date_format = "Jan 2, 2006" #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+time_format = "3:04 PM" #   Examples: "3:04 pm" or "15:04"
+address_format = "en-us" # Address format (choose from the [address_formats] list below or add you own to the list).
 
 ############################
 ## Advanced
 ############################
-# Get user avatars from Gravatar.com? (true/false)
-gravatar = false
-
-# Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true}
-
-# Show estimated reading time for posts? (true/false)
-reading_time = true
-
-# Display next/previous section pager? (true/false)
-section_pager = true
+gravatar = false # Get user avatars from Gravatar.com? (true/false)
+main_menu = {align = "l", show_logo = true} # Main menu alignment (l = left, c = center, r = right) and logo options.
+reading_time = true # Show estimated reading time for posts? (true/false)
+section_pager = true # Display next/previous section pager? (true/false)
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
-
-# Enable in-built social sharing buttons? (true/false)
-sharing = true
-
-# Link authors to their profile page? (true/false)
-link_authors = true
-
-# Load JS plugins
-#   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = []
+sharing = true # Enable in-built social sharing buttons? (true/false)
+link_authors = true # Link authors to their profile page? (true/false)
+plugins_js  = [] # Load JS plugins: e.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 
 # Available address formats.
 [address_formats]
@@ -159,12 +105,8 @@ plugins_js  = []
 
 # Configuration of publication pages.
 [publications]
-  # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "January 2006"
-
-  # Citation style ("apa" or "mla")
-  citation_style = "apa"
+  citation_style = "apa" # Citation style ("apa" or "mla")
 
 # Configuration of project pages.
 [projects]
@@ -204,11 +146,7 @@ plugins_js  = []
 ## Search
 ############################
 [search]
-  # Search provider:
-  #   0: No search engine
-  #   1: Academic (built-in)
-  #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 1 # Search provider: 0: none, 1: Academic (built-in), 2: Algolia (https://www.algolia.com)
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.
@@ -238,7 +176,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 2
   api_key = "" #"AIzaSyB0hxxyLujH5apnsRW21X5MlqO8_LnbjGc"
-  zoom = 8
+  zoom = 15 # map zoom
 
 ############################
 ## Marketing
