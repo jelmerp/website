@@ -1,10 +1,6 @@
-# SITE SETUP
-# Documentation: https://sourcethemes.com/academic/
-
 ############################
 ## Theme
 ############################
-
 # Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
@@ -27,17 +23,12 @@ font_size = "M" # Jelmer_changed
 ############################
 ## Basic Info
 ############################
-
 # Website type
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
 #   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type = "Person"
-
-# Local business type (optional)
-# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
@@ -49,15 +40,16 @@ description = "Jelmer's site" # Jelmer_changed
 ############################
 ## Site Features
 ############################
-
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
 highlight_languages = ["r"]  # Add support for highlighting additional languages
-# highlight_style = "github"  # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+ # For supported styles, see https://cdnjs.com/libraries/highlight.js/
+ # Jelmer: see also https://highlightjs.org/static/demo/
+highlight_style = "an-old-hope" #"github" # Jelmer_changed
 
 # Enable LaTeX math rendering? true/false
-#   If false, you can enable math on a per page basis as needed.
+# If false, you can enable math on a per page basis as needed.
 math = false
 
 # Enable diagram rendering? true/false
@@ -75,14 +67,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 ############################
 ## Contact details
-##
 ## These details power the Contact widget (if enabled).
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
-
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "jelmerpoelstra@gmail.com" # Jelmer_changed
-phone = "9192608253" # Jelmer_changed
+phone = "919-260-8253" # Jelmer_changed
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -105,7 +95,7 @@ appointment_url = "" #https://calendly.com
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jelmerpoelstra"},
+  {icon = "twitter", icon_pack = "fab", name = "DM me", link = "https://twitter.com/jelmerpoelstra"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
