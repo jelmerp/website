@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
-title = ""
+title = "About me"
 subtitle = ""
 
 [design]
@@ -42,4 +42,8 @@ subtitle = ""
  css_class = "mini"
 +++
 
-I am originally from The Netherlands and ...
+I grew up in a small town called Surhuisterveen in the province of Friesland in The Netherlands. I have been interested in nature and particularly birds since I was a small child. At the age of 11, I joined the Jeugdbond voor Natuur- en Milieustudie (JNM; this translates to "youth club for the study of nature and the environment") and with them, I went on countless excursions and camps across the country and beyond, looking for and identifying birds, butterflies, plants and so on. This prompted me to study Biology in college, but since the province of Friesland has no universities, I was forced to move to the neighboring rival province of Groningen.
+
+For my MSc, I first did a field-based project on song divergence and the associated behavioural responses in Gray-breasted Wood-wrens in Ecuador. While I had little to no appetite for genetics as I started studying biology, my interest in speciation eventually turned that on it's head and I next did a lab-based project on population genetic differentiation among populations of Chestnut-bellied Monarchs in the Solomon Islands.
+
+For my PhD, I went to Uppsala University in Sweden, studying an iconic (well, in some circles) pair of birds: Carrion and Hooded Crows. TBC
