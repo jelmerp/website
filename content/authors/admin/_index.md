@@ -8,10 +8,10 @@ education:
     institution: Uppsala Universitet, Sweden
     #year: 2013
   - course: MSc in Evolutionary Biology
-    institution: Rijksuniverseit Groningen, The Netherlands
+    institution: Rijksuniversiteit Groningen, The Netherlands
     #year: 2009
   - course: BSc in Biology
-    institution: Rijksuniverseit Groningen, The Netherlands
+    institution: Rijksuniversiteit Groningen, The Netherlands
     #year: 2007
 email: "jelmerpoelstra@gmail.com"
 interests:

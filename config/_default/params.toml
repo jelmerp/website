@@ -52,7 +52,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 email = "jelmerpoelstra@gmail.com" # Jelmer_changed
 phone = "919-260-8253" # Jelmer_changed
-address = {street = "125 Science Drive", city = "Durham", region = "NC", postcode = "27708", country = "United States", country_code = "US"} # Jelmer_changed
+address = {street = "328 Biol. Sciences Building, 125 Science Drive", city = "Durham", region = "NC", postcode = "27708", country = "United States", country_code = "US"} # Jelmer_changed
 coordinates = {latitude = "36.001906", longitude = "-78.943172"} # Jelmer_changed
 directions = "" # Directions for visitors to locate you. # Jelmer_changed: removed directions
 
