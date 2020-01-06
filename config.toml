@@ -1,30 +1,13 @@
-# Configuration of Academic
-# Documentation: https://sourcethemes.com/academic/
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
-
-# Title of your site
-title = "Jelmer Poelstra" # Jelmer_changed: to own name
-
-# The URL of your site. # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://jelmerpoelstra.netlify.com/" # Jelmer_changed: to actual URL
-
-# Enter a copyright notice to display in the site footer.
-# To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = ""
-
-# Name of Academic theme folder in `themes/`.
-theme = "hugo-academic"
-
-# Get last modified date for content from Git?
-enableGitInfo = true # Jelmer_changed: false to true
-
-# Default language to use (if you setup multilingual support)
-defaultContentLanguage = "en"
+# Configuration of Academic https://sourcethemes.com/academic/
+title = "Jelmer Poelstra" # Title of your site # Jelmer_changed: to own name
+baseurl = "https://jelmerpoelstra.netlify.com/" # Jelmer_changed: to actual URL # The URL of your site. # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+copyright = "&copy;Jelmer Poelstra, {year}" # Jelmer_changed # Enter a copyright notice to display in the site footer. # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
+theme = "hugo-academic" # Name of Academic theme folder in `themes/`.
+enableGitInfo = true # Jelmer_changed: false to true # Get last modified date for content from Git?
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual support)
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
-
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -64,4 +47,4 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   author = "authors"
 
 [permalinks] # added_Jelmer
-    post = "/:year/:slug/" # added_Jelmer following recom at https://bookdown.org/yihui/blogdown/configuration.html
+    post = "/:slug/" # added_Jelmer following recom at https://www.garrickadenbuie.com/blog/blogdown-netlify-new-post-workflow/
