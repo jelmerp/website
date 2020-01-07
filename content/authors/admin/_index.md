@@ -50,3 +50,5 @@ user_groups:
 ---
 
 I am currently a postdoc studying diversification of Madagascar's mouse lemurs using genomic data, in [Anne Yoder's lab](http://yoderlab.org/) at Duke University. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids at UNC Chapel Hill. My PhD research, done at Uppsala Universy in Sweden, was on coloration genetics and speciation genomics in two European crow taxa: carrion and hooded crows.
+
+In my free time, I like to head outside to play soccer and go birding locally as well as all across the world (see my [Birding](/birding/) page). 
