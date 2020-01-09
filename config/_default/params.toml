@@ -1,24 +1,13 @@
 ############################
 ## Theme
 ############################
-# Choose a theme.
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in themes in `themes/academic/data/themes/`
-#   Browse user installed themes in `data/themes/`
+#   Browse built-in themes/fonts in `themes/academic/data/themes/` / `themes/academic/data/fonts/`
+#   Browse user installed themes in `data/themes/` / `data/fonts/`
 theme = "minimal"
-
-# Enable users to switch between day and night mode?
-day_night = true
-
-# Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
-#   Browse user installed font sets in `data/fonts/`
+day_night = true # Enable users to switch between day and night mode?
 font = ""
-
-# Choose a font size.
-# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "M" # Jelmer_changed
+font_size = "M" #Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)# Jelmer_changed
 
 ############################
 ## Basic Info

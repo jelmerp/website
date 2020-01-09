@@ -27,35 +27,48 @@ subtitle = ""
 +++
 
 ## Observations
-- [My eBird profile page](https://ebird.org/profile/MzI4MzE5/world/)
+- __[My eBird profile page](https://ebird.org/profile/MzI4MzE5/world/)__
 - [My observation.org profile page](https://waarneming.nl/users/13020/)
 - [My waarneming.nl profile page](https://observation.org/user/view/13020)
 
-I only started using eBird in 2016, and almost none of my previous sightings are on  eBird as of now. Before eBird, I used the Swedish site [Artportalen](https://artportalen.se/) for sightings in Sweden while living there. I've also used the Dutch websites [waarneming.nl](https://waarneming.nl/) for sighting in The Netherlands and [observation.org](https://observation.org/) for sightings elsewhere. One day, I'll need to pull all of this together, and also enter old sightings that were not digitally logged at all, of which there are many...
+I only started using eBird after I moved to the US in the fall of 2016, and as of now, hardly any of my previous sightings are on eBird. Before eBird, I used [Artportalen](https://artportalen.se/) for sightings in Sweden while living there. I've also used the Dutch websites [waarneming.nl](https://waarneming.nl/) for sighting in The Netherlands and [observation.org](https://observation.org/) for sightings elsewhere. One day, I'll need to pull all of this together, and also enter old sightings that were not digitally logged at all, of which there are many...
 
+Waarneming and Observation are great when it comes to both entering your own and finding others' *individual sightings* with accurate locations. Another nice aspect is that you can enter observations of any organism using the same platform/account/app. However, eBird's set-up with (complete) checklists has a number of advantages, most of all that it has much more scientific value. I've also found that is more fun to bird via checklists in most contexts, and it forces you to pay attention to all birds, which is ultimately quite beneficial.
 
 ## Sound recordings
 - [My Xeno-Canto profile page](https://www.xeno-canto.org/contributor/RKAYEOOLQW)
 
+I have long been interested in bird vocalizations and have made thousands of sound recordings through the years, starting in 2006 with a little voice recorder... Some of those, over 900 as of Jan. 2020, can be found on [Xeno-Canto](https://www.xeno-canto.org/). Several have also been published as audio accompanying books and articles.
 
 ## Trip reports
 All are links to pdf files on the excellent [Cloudbirders](https://cloudbirders.com/) website:
-- TBA: China, May-June 2019.
-- TBA: NE Brazil, Dec 2017 - Jan 2018.
-- [Morocco, Apr-May 2015](cloudbirders.com/be/download?filename=POELSTRA_Morocco_0405_2015.pdf)
-- [Colombia, Feb-Mar 2015](https://penguinbirding.files.wordpress.com/2015/04/reisverslag-colombia3.pdf). Written by Rob Gordijn & Helen Rijkes.
-- [Thailand, Jan 2014](https://www.cloudbirders.com/be/download?filename=POELSTRA_Thailand_01_2014.pdf)
-- [Ethiopia, Jan-Feb 2011](https://nas.sterren.frl/Apache/doc/doc00363.pdf). Also available as a webpage on Birdtours.co.uk [here](http://www.birdtours.co.uk/tripreports/ethiopia/ethiopia-9/ethiopia-2011.htm).
-- [N Peru, Jun-Aug 2006](https://www.cloudbirders.com/be/download?filename=VANDERSPEK_Peru_0608_2006.pdf)
+- TBA: __China, May-June 2019__. The Sichuan part of a custom tour put together by Steven An from [China Dreams Tour](http://www.chinadreamstour.com/) while visiting China for a workshop at Duke Kunshan University.
+
+- TBA: __NE Brazil, Dec 2017 - Jan 2018__. With Sjoerd Radstaak, Pieter van Veelen, and Lars Buckx.
+
+- __[Morocco, Apr-May 2015](cloudbirders.com/be/download?filename=POELSTRA_Morocco_0405_2015.pdf).__ See also the accompanying map with GPS points [here](https://drive.google.com/open?id=1hd3j-ZFZJ9bTbAUw4xI5EHrt8uE&usp=sharing). With Vivian Jacobs, Marten Hornsveld, and Martijn Hammers.
+
+- __[Colombia, Feb-Mar 2015](https://penguinbirding.files.wordpress.com/2015/04/reisverslag-colombia3.pdf).__ Written by Rob Gordijn & Helen Rijkes. See also the accompanying map with GPS points [here](https://www.google.com/maps/d/edit?mid=z1fz1i75IlBc.kiw4n9rAQFJw). With Rob Gordijn, Helen Rijkes, Janne Ouwehand, and Sander Bot.
+
+- __[Thailand, Jan 2014](https://www.cloudbirders.com/be/download?filename=POELSTRA_Thailand_01_2014.pdf).__ See also the accompanying map with GPS points [here](https://drive.google.com/open?id=1MpKgrxyLKj8sjphj4ZpieuRTZZ8&usp=sharing). With Rutger Wilschut, Joachim Bouwmeester, and Thijs de Kruif.
+
+- __[Ethiopia, Jan-Feb 2011](https://nas.sterren.frl/Apache/doc/doc00363.pdf).__ Also available as a webpage on Birdtours.co.uk [here](http://www.birdtours.co.uk/tripreports/ethiopia/ethiopia-9/ethiopia-2011.htm). See also the accompanying map with GPS points [here (Northern part)](https://drive.google.com/open?id=1Na_XlFvZnH0mDPMW6mDR7djvpp4&usp=sharing) and [here (Southern part)](https://drive.google.com/open?id=1xLgeKAWpsdtpu1YY6LMx6g5krIk&usp=sharing). With Sander Bot, Rob Gordijn, Sjoerd Radstaak, and Bas van Schooten.
+
+- __[N Peru, Jun-Aug 2006](https://www.cloudbirders.com/be/download?filename=VANDERSPEK_Peru_0608_2006.pdf)__. Written by Vincent van der Spek. With Arjan Dwarshuis and Vincent van der Spek.
 
 
-## Guiding
+## Articles in birding magazines
+- __Poelstra JW. Hybridization and speciation: the case of the Italian sparrow. *Dutch Birding* 37: 249-253, 2015.__
+  An article in the Dutch Birding's *Trends in Systematics* series summarizing papers on hybrid speciation in sparrows: as has long been suspected and was recently confirmed by genomic data, the Italian Sparrow is a hybrid species with House and Spanish Sparrows as the parental species. See [here](https://www.dutchbirding.nl/journal/pdf/DB_2015_37_4.pdf#page=41) for a pdf.
 
+- __Poelstra, JW. Olivaceous Warbler on the island of Björn. Fåglar i Uppland 38(3): 8-9. 2011.__
+  An article about finding the 4th Olivaceous Warbler for Sweden. See [here](http://gamla.uof.nu/fiu/artiklar/Olivaceous_Warbler_on_the_island_of_Bjorn.pdf) for a pdf.
 
-## Articles
-
+- __Poelstra JW. Speciation in shades of grey: the great grey shrike complex. Dutch Birding 32: 259-264, 2010.__ An article summarizing recent phylogenetic results on Great Grey Shrikes. [here](https://www.dutchbirding.nl/journal/pdf/DB_2010_32_4.pdf#page=34) for a pdf.
 
 ## Editing
+I'm an editorial assistant for the journal [Dutch Birding](https://www.dutchbirding.nl/journal) published by the [Dutch Birding Association](https://www.dutchbirding.nl/).
 
+## Guiding
+I have designed and guided two 5-day group birding tours to Central Sweden for [Birding Breaks](https://www.birdingbreaks.nl/) that took place in April 2016 and April 2017. Our main targets were owls (Great Grey, Ural, Pygmy, Hawk, and Tengmalm's), grouse (Capercaillie, Hazelhen, Rock Ptarmigan, and Willow Grouse), Siberian Jay, Siberian Tit, and Three-toed Woodpecker. I am set to lead a tour to the migrant traps along the northern shore of Lake Ontario in Canada in May 2020 (trip website [here](https://www.birdingbreaks.nl/vogelreis_canada_point_pelee)). See also my personal Birding Breaks page [here](https://www.birdingbreaks.nl/reisleider_jelmer_poelstra).
 
-[Under construction]
