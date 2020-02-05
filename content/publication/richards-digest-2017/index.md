@@ -2,7 +2,7 @@
 title = "Digest: Sticklebacks do not just go with the flow: Genetic differentiation between lake and stream populations due to more than just geographic distance"
 date = 2017-01-01
 authors = ["Emilie Richards", "Aaron Comeault", "Jelmer W. Poelstra"]
-publication_types = ["2"]
+publication_types = ["0"]
 abstract = ""
 featured = false
 publication = "*Evolution*"
