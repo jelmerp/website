@@ -52,8 +52,6 @@ All links are to pdf files on the excellent [Cloudbirders](https://cloudbirders.
 
 - __[Ethiopia, Jan-Feb 2011](https://nas.sterren.frl/Apache/doc/doc00363.pdf).__ Also available as a webpage on Birdtours.co.uk [here](http://www.birdtours.co.uk/tripreports/ethiopia/ethiopia-9/ethiopia-2011.htm). See also the accompanying map with GPS points [here (Northern part)](https://drive.google.com/open?id=1Na_XlFvZnH0mDPMW6mDR7djvpp4&usp=sharing) and [here (Southern part)](https://drive.google.com/open?id=1xLgeKAWpsdtpu1YY6LMx6g5krIk&usp=sharing). With Sander Bot, Rob Gordijn, Sjoerd Radstaak, and Bas van Schooten.
 
-{{< figure library="true" src="P1040292.JPG" width="500px" caption="Eating injera in Ethiopia." >}}
-
 - __[N Peru, Jun-Aug 2006](https://www.cloudbirders.com/be/download?filename=VANDERSPEK_Peru_0608_2006.pdf)__. Written by Vincent van der Spek. With Arjan Dwarshuis and Vincent van der Spek.
 
 ## Articles in birding magazines
