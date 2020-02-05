@@ -7,7 +7,7 @@
 theme = "minimal"
 day_night = true # Enable users to switch between day and night mode?
 font = ""
-font_size = "XS" #Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)# Jelmer_changed
+font_size = "S" #Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)# Jelmer_changed
 
 ############################
 ## Basic Info
