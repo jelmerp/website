@@ -15,9 +15,9 @@ education:
     #year: 2007
 email: "jelmerpoelstra@gmail.com"
 interests:
-- Evolutionary biology, speciation
-- Population genetics
-- Genomics
+- Speciation
+- Population genetics and genomics
+- Demographic modeling, admixture
 - Scripting in R, bash, and Python
 - Data visualization
 - Birding
@@ -51,6 +51,6 @@ user_groups:
 - Visitors
 ---
 
-I am a computational evolutionary biologist, currently working as a postdoc studying diversification of Madagascar's mouse lemurs using genomic data, in [Anne Yoder's lab](http://yoderlab.org/) at Duke University. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids at UNC Chapel Hill. My PhD research at Uppsala Universy in Sweden dove into coloration genetics and speciation genomics in crows.
+I am a computational evolutionary biologist, currently using genomic data to study diversification of Madagascar's mouse lemurs in [Anne Yoder's lab](http://yoderlab.org/) at Duke University. Previously, I've worked on sympatric speciation and admixture in Cameroon crater lake cichlids, and on coloration genetics and speciation genomics in European crows. See my [Research](/research/) and [Publications](/publication/) pages for more details.
 
 In my free time, I like to head outside to play soccer and most of all to go birding --- locally and all across the world (see my [Birding](/birding/) page). 

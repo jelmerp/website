@@ -31,7 +31,7 @@ subtitle = ""
 - [My observation.org profile page](https://waarneming.nl/users/13020/)
 - [My waarneming.nl profile page](https://observation.org/user/view/13020)
 
-I only started using eBird after I moved to the US in the fall of 2016, and as of now, hardly any of my previous sightings are on eBird. Before eBird, I used [Artportalen](https://artportalen.se/) for sightings in Sweden while living there. I've also used the Dutch websites [waarneming.nl](https://waarneming.nl/) for sighting in The Netherlands and [observation.org](https://observation.org/) for sightings elsewhere. One day, I'll need to pull all of this together, and also enter old sightings that were not digitally logged at all, of which there are many...
+I only started using eBird after I moved to the US in the fall of 2016, and as of now, hardly any of my previous observations are on eBird. Before eBird, I used [Artportalen](https://artportalen.se/) while living in Sweden, and the Dutch websites [waarneming.nl](https://waarneming.nl/) for observations in The Netherlands and [observation.org](https://observation.org/) for sightings elsewhere. One day, I'll need to get all of that -- and older, non-digitally recorded observations -- onto eBird.
 
 ## Sound recordings
 - [My Xeno-Canto profile page](https://www.xeno-canto.org/contributor/RKAYEOOLQW)
@@ -39,7 +39,7 @@ I only started using eBird after I moved to the US in the fall of 2016, and as o
 I have long been interested in bird vocalizations and have made thousands of sound recordings through the years, starting in 2006 with a little voice recorder... Some of those, over 900 as of Jan. 2020, can be found on [Xeno-Canto](https://www.xeno-canto.org/). Several have also been published as audio accompanying books and articles.
 
 ## Trip reports
-All are links to pdf files on the excellent [Cloudbirders](https://cloudbirders.com/) website:
+All links are to pdf files on the excellent [Cloudbirders](https://cloudbirders.com/) website:
 - TBA: __China, May-June 2019__. The Sichuan part of a custom tour put together by Steven An from [China Dreams Tour](http://www.chinadreamstour.com/) while visiting China for a workshop at Duke Kunshan University.
 
 - TBA: __NE Brazil, Dec 2017 - Jan 2018__. With Sjoerd Radstaak, Pieter van Veelen, and Lars Buckx.
