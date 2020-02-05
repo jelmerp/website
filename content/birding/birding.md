@@ -76,3 +76,5 @@ attempt2
 ![bla](static/img/bb2016_comp.jpg)
 attempt3
 ![bla](bb2016_comp.jpg)
+attempt4
+![bla](/img/bb2016_comp.jpg)
