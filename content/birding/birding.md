@@ -78,3 +78,11 @@ attempt3
 ![bla](bb2016_comp.jpg)
 attempt4
 ![bla](img/bb2016_comp.jpg)
+attempt5
+![bla](/bb2016_comp.jpg)
+
+{{< figure library="true" src="/bb2016_comp.jpg" >}}
+{{< figure library="true" src="bb2016_comp.jpg" >}}
+{{< figure library="true" src="img/bb2016_comp.jpg" >}}
+{{< figure library="true" src="/img/bb2016_comp.jpg" >}}
+
