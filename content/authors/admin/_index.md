@@ -18,7 +18,7 @@ interests:
 - Speciation
 - Population genetics and genomics
 - Demographic modeling, admixture
-- Scripting in R, bash, and Python
+- Scripting in bash, R, and Python
 - Data visualization
 - Birding
 name: Jelmer Poelstra
