@@ -71,18 +71,18 @@ I have designed and guided two 5-day group birding tours to Central Sweden for [
 {{< figure src="/img/bb2016_comp.jpg" width="700px" caption="The 2016 BB Sweden tour: watching Gyr Falcons, group picture, watching a Great Grey Owl, and the Great Grey Owl itself." >}}
 
 attempt1
-![bla](/img/bb2016_comp.jpg)
+![bla](/img/jelmer.jpg)
 attempt2
-![bla](static/img/bb2016_comp.jpg)
+![bla](static/img/jelmer.jpg)
 attempt3
-![bla](bb2016_comp.jpg)
+![bla](jelmer.jpg)
 attempt4
-![bla](img/bb2016_comp.jpg)
+![bla](img/jelmer.jpg)
 attempt5
-![bla](/bb2016_comp.jpg)
+![bla](/jelmer.jpg)
 
-{{< figure library="true" src="/bb2016_comp.jpg" >}}
-{{< figure library="true" src="bb2016_comp.jpg" >}}
-{{< figure library="true" src="img/bb2016_comp.jpg" >}}
-{{< figure library="true" src="/img/bb2016_comp.jpg" >}}
+{{< figure library="true" src="/jelmer.jpg" >}}
+{{< figure library="true" src="jelmer.jpg" >}}
+{{< figure library="true" src="img/jelmer.jpg" >}}
+{{< figure library="true" src="/img/jelmer.jpg" >}}
 
