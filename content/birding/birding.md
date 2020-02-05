@@ -33,8 +33,6 @@ subtitle = ""
 
 I only started using eBird after I moved to the US in the fall of 2016, and as of now, hardly any of my previous sightings are on eBird. Before eBird, I used [Artportalen](https://artportalen.se/) for sightings in Sweden while living there. I've also used the Dutch websites [waarneming.nl](https://waarneming.nl/) for sighting in The Netherlands and [observation.org](https://observation.org/) for sightings elsewhere. One day, I'll need to pull all of this together, and also enter old sightings that were not digitally logged at all, of which there are many...
 
-Waarneming and Observation are great when it comes to both entering your own and finding others' *individual sightings* with accurate locations. Another nice aspect is that you can enter observations of any organism using the same platform/account/app. However, eBird's set-up with (complete) checklists has a number of advantages, most of all that it has much more scientific value. I've also found that is more fun to bird via checklists in most contexts, and it forces you to pay attention to all birds, which is ultimately quite beneficial.
-
 ## Sound recordings
 - [My Xeno-Canto profile page](https://www.xeno-canto.org/contributor/RKAYEOOLQW)
 
