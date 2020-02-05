@@ -72,17 +72,16 @@ I have designed and guided two 5-day group birding tours to Central Sweden for [
 
 attempt1
 ![bla](/img/jelmer.jpg)
-attempt2
-![bla](static/img/jelmer.jpg)
-attempt3
-![bla](jelmer.jpg)
-attempt4
-![bla](img/jelmer.jpg)
-attempt5
-![bla](/jelmer.jpg)
+attempt1b
+![bla](/img/bb2016.jpg)
+![bla](/img/dscn1646.jpg)
 
+attemptA
 {{< figure library="true" src="/jelmer.jpg" >}}
+attemptB
 {{< figure library="true" src="jelmer.jpg" >}}
+attemptC
 {{< figure library="true" src="img/jelmer.jpg" >}}
+attemptD
 {{< figure library="true" src="/img/jelmer.jpg" >}}
 
