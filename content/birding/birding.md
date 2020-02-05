@@ -75,13 +75,12 @@ attempt1
 attempt1b
 ![bla](/img/bb2016.jpg)
 ![bla](/img/dscn1646.jpg)
+![bla](/img/DSC_5891.JPG)
+![bla](/img/DSCN1919.JPG)
+![bla](/img/P1040292.JPG)
 
 attemptA
 {{< figure library="true" src="/jelmer.jpg" >}}
 attemptB
 {{< figure library="true" src="jelmer.jpg" >}}
-attemptC
-{{< figure library="true" src="img/jelmer.jpg" >}}
-attemptD
-{{< figure library="true" src="/img/jelmer.jpg" >}}
 
