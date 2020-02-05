@@ -68,5 +68,5 @@ All links are to pdf files on the excellent [Cloudbirders](https://cloudbirders.
 ## Guiding
 I have designed and guided two 5-day group birding tours to Central Sweden for [Birding Breaks](https://www.birdingbreaks.nl/) that took place in April 2016 and April 2017. Our main targets were owls (Great Grey, Ural, Pygmy, Hawk, and Tengmalm's), grouse (Capercaillie, Hazelhen, Rock Ptarmigan, and Willow Grouse), Siberian Jay, Siberian Tit, and Three-toed Woodpecker. I am set to lead a tour to the migrant traps along the northern shore of Lake Ontario in Canada in May 2020 (trip website [here](https://www.birdingbreaks.nl/vogelreis_canada_point_pelee)). See also my personal Birding Breaks page [here](https://www.birdingbreaks.nl/reisleider_jelmer_poelstra).
 
-{{< figure src="static/img/bb2016_comp.jpg" width="700px" caption="The 2016 BB Sweden tour: watching Gyr Falcons, group picture, watching a Great Grey Owl, and the Great Grey Owl itself." >}}
+{{< figure src="/img/bb2016_comp.jpg" width="700px" caption="The 2016 BB Sweden tour: watching Gyr Falcons, group picture, watching a Great Grey Owl, and the Great Grey Owl itself." >}}
 
