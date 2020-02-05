@@ -44,7 +44,7 @@ All links are to pdf files on the excellent [Cloudbirders](https://cloudbirders.
 
 - TBA: __NE Brazil, Dec 2017 - Jan 2018__. With Sjoerd Radstaak, Pieter van Veelen, and Lars Buckx.
 
-- __[Morocco, Apr-May 2015](cloudbirders.com/be/download?filename=POELSTRA_Morocco_0405_2015.pdf).__ See also the accompanying map with GPS points [here](https://drive.google.com/open?id=1hd3j-ZFZJ9bTbAUw4xI5EHrt8uE&usp=sharing). With Vivian Jacobs, Marten Hornsveld, and Martijn Hammers.
+- __[Morocco, Apr-May 2015](https://cloudbirders.com/be/download?filename=POELSTRA_Morocco_0405_2015.pdf).__ See also the accompanying map with GPS points [here](https://drive.google.com/open?id=1hd3j-ZFZJ9bTbAUw4xI5EHrt8uE&usp=sharing). With Vivian Jacobs, Marten Hornsveld, and Martijn Hammers.
 
 - __[Colombia, Feb-Mar 2015](https://penguinbirding.files.wordpress.com/2015/04/reisverslag-colombia3.pdf).__ Written by Rob Gordijn & Helen Rijkes. See also the accompanying map with GPS points [here](https://www.google.com/maps/d/edit?mid=z1fz1i75IlBc.kiw4n9rAQFJw). With Rob Gordijn, Helen Rijkes, Janne Ouwehand, and Sander Bot.
 
