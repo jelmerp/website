@@ -68,29 +68,5 @@ All links are to pdf files on the excellent [Cloudbirders](https://cloudbirders.
 ## Guiding
 I have designed and guided two 5-day group birding tours to Central Sweden for [Birding Breaks](https://www.birdingbreaks.nl/) that took place in April 2016 and April 2017. Our main targets were owls (Great Grey, Ural, Pygmy, Hawk, and Tengmalm's), grouse (Capercaillie, Hazelhen, Rock Ptarmigan, and Willow Grouse), Siberian Jay, Siberian Tit, and Three-toed Woodpecker. I am set to lead a tour to the migrant traps along the northern shore of Lake Ontario in Canada in May 2020 (trip website [here](https://www.birdingbreaks.nl/vogelreis_canada_point_pelee)). See also my personal Birding Breaks page [here](https://www.birdingbreaks.nl/reisleider_jelmer_poelstra).
 
-{{< figure src="/img/bb2016_comp.jpg" width="700px" caption="The 2016 BB Sweden tour: watching Gyr Falcons, group picture, watching a Great Grey Owl, and the Great Grey Owl itself." >}}
-
-attempt1
-![bla](/img/jelmer.jpg)
-attempt1b
-![bla](/img/bb2016.jpg)
-![bla](/img/dscn1646.jpg)
-<<<<<<< HEAD
-![bla](/img/DSC_5891.JPG)
-![bla](/img/DSCN1919.JPG)
-![bla](/img/P1040292.JPG)
-=======
->>>>>>> 8108bd83c2a40690c48382d3da1350013feae99f
-
-attemptA
-{{< figure library="true" src="/jelmer.jpg" >}}
-attemptB
-{{< figure library="true" src="jelmer.jpg" >}}
-<<<<<<< HEAD
-=======
-attemptC
-{{< figure library="true" src="img/jelmer.jpg" >}}
-attemptD
-{{< figure library="true" src="/img/jelmer.jpg" >}}
->>>>>>> 8108bd83c2a40690c48382d3da1350013feae99f
+{{< figure src="bb2016.jpg" width="700px" caption="The 2016 BB Sweden tour: watching Gyr Falcons, group picture, watching a Great Grey Owl, and the Great Grey Owl itself." >}}
 
