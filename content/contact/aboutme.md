@@ -28,14 +28,14 @@ subtitle = ""
 
 I grew up in a small town called Surhuisterveen in the province of Fryslân in The Netherlands. I have been interested in nature and particularly birds since I was a small child.
 
-{{< figure src="159-160.jpg" width="800px" caption="Birding while young is best done lying down. Unfortunately, this is not what it looked like where I grew up." >}}
+{{< figure src="159-160.jpg" width="800px" caption="Birding while young is best done lying down. Unfortunately, this is not what it looked like where I grew up. On holiday in France, ca. 1994." >}}
 
-As a young teenager, I joined the [Jeugdbond voor Natuur- en Milieustudie](https://www.jnm.nl/) (JNM; this translates to "youth club for the study of nature and the environment") and with them, I went on countless excursions and camps across the country and beyond, looking for and identifying birds, butterflies, plants and so on.
+As a young teenager, I joined the [Jeugdbond voor Natuur- en Milieustudie](https://www.jnm.nl/) ("youth club for the study of nature and the environment"). With the JNM, I went on countless excursions and camps across the country and beyond, looking for and identifying birds, butterflies, plants and so on.
 
-{{< figure src="dscn1646-dscn1677.jpg" width="800px" caption="Breeding bird survey with the JNM at the Duurswouderheide in 2003." >}}
+{{< figure src="dscn1646-dscn1677.jpg" width="800px" caption="Breeding bird survey with the JNM at the Duurswouderheide in The Netherlands in 2003." >}}
 
 This prompted me to study Biology in college, and since Fryslân doesn't have a single university, I moved to the rival neighbor province of Groningen to study at the [Rijksuniversiteit Groningen](https://www.rug.nl/?lang=en). I did my PhD in evolutionary genetics at Uppsala University in Sweden, and next went to North Carolina in the US for postdocs at UNC Chapel Hill and Duke University. Nearly all of my research has revolved around speciation, genomics, and the intersection of the two --- see my [Research](/research/) and [Publications](/publication/) pages for more details.
 
-{{< figure src="DSCN1919.JPG" width="600px" caption="Lots of snow in Sweden -- and Hawk Owls!" >}}
+{{< figure src="DSCN1919.JPG" width="600px" caption="After seeing a Hawk Owl, near Vendel north of Uppsala, Sweden, January 2010." >}}
 
-{{< figure src="DSC_5891.JPG" width="600px" caption="Playing soccer in Chapel Hill with OCASL." >}}
+{{< figure src="DSC_5891.JPG" width="600px" caption="Playing soccer with OCASL in Chapel Hill, June 2018." >}}
