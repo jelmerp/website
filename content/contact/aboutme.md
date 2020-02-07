@@ -26,7 +26,7 @@ subtitle = ""
  css_class = "mini" # CSS class.
 +++
 
-I grew up in a small town called Surhuisterveen in the province of Fryslân in The Netherlands. I have been interested in nature and particularly birds since I was a small child.
+I grew up in a small town called Surhuisterveen in the province of Fryslân in The Netherlands. I have been interested in nature, particularly birds, since I was a small child.
 
 {{< figure src="159-160.jpg" width="800px" caption="Birding while young is best done lying down. Unfortunately, this is not what it looked like where I grew up. On holiday in France, ca. 1994." >}}
 
