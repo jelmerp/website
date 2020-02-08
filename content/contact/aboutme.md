@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
-title = "About me"
+title = ""
 subtitle = ""
 
 [design]
@@ -19,13 +19,14 @@ subtitle = ""
   text_color_light = false # Text color (true=light or false=dark).
 
 [design.spacing]
-  padding = ["20px", "0", "20px", "0"] # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "200px", "20px", "200px"] # Customize the section spacing. Order is top, right, bottom, left.
 
 [advanced]
  css_style = "" # Custom CSS. 
  css_class = "mini" # CSS class.
 +++
 
+## About me
 I grew up in a small town called Surhuisterveen in the province of Fryslân in The Netherlands. I have been interested in nature, particularly birds, since I was a small child.
 
 {{< figure src="159-160.jpg" width="800px" caption="Birding while young is best done lying down. Unfortunately, this is not what it looked like where I grew up. On holiday in France, ca. 1994." >}}
