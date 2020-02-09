@@ -30,9 +30,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jelmerpoelstra@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/jelmerpoelstra   # Jelmer_changed
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/jelmerpoelstra   # Jelmer_changed
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=h_a6S0cAAAAJ&hl=en  # Jelmer_changed
